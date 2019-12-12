@@ -1,7 +1,4 @@
-# CIS557 Project: Photo-sharing Social Network APP (Milestone1)
-
-## Level 0:
-Final work is at branch photo_backend
+# CIS557 Project: Photo-sharing Social Network APP
 
 # Planning: User stories, Story points (6 points)
 
